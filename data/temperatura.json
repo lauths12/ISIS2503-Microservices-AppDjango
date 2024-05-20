@@ -1,0 +1,22 @@
+[
+  {"variable": 1, "unit": "C", "value": 26.13, "place": 2},
+  {"variable": 1, "unit": "C", "value": 18.41, "place": 3},
+  {"variable": 1, "unit": "C", "value": 33.67, "place": 1},
+  {"variable": 1, "unit": "C", "value": 29.25, "place": 4},
+  {"variable": 1, "unit": "C", "value": 20.84, "place": 2},
+  {"variable": 1, "unit": "C", "value": 15.62, "place": 1},
+  {"variable": 1, "unit": "C", "value": 39.48, "place": 3},
+  {"variable": 1, "unit": "C", "value": 17.92, "place": 4},
+  {"variable": 1, "unit": "C", "value": 36.14, "place": 2},
+  {"variable": 1, "unit": "C", "value": 22.57, "place": 1},
+  {"variable": 1, "unit": "C", "value": 41.37, "place": 3},
+  {"variable": 1, "unit": "C", "value": 30.25, "place": 4},
+  {"variable": 1, "unit": "C", "value": 19.84, "place": 2},
+  {"variable": 1, "unit": "C", "value": 35.91, "place": 1},
+  {"variable": 1, "unit": "C", "value": 27.46, "place": 3},
+  {"variable": 1, "unit": "C", "value": 21.78, "place": 4},
+  {"variable": 1, "unit": "C", "value": 14.67, "place": 2},
+  {"variable": 1, "unit": "C", "value": 42.31, "place": 1},
+  {"variable": 1, "unit": "C", "value": 28.53, "place": 3},
+  {"variable": 1, "unit": "C", "value": 38.44, "place": 4}
+]
